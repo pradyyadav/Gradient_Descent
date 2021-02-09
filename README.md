@@ -1,1 +1,1 @@
-# Linear-Regression-from-scratch
+# Gradient Descent
