@@ -3,9 +3,13 @@ In this repository, I have implemented gradient descent algorithm from scratch i
 
 
 ![image_0](https://github.com/pradyyadav/Images/blob/main/3.gif?raw=True)
+
 ![image_4](https://cdn.mathpix.com/snip/images/Qej8y_MlWd1wo2yF2f72g6_LzZnMd0BUAtkxBqYJsUo.original.fullsize.png)
+
 ![image_3](https://cdn.mathpix.com/snip/images/9R8XqShEOMfFa-iYbNyvUBKbEx92-RDYIciDDBAhURk.original.fullsize.png)
+
 ![image_2](https://cdn.mathpix.com/snip/images/8w1pnRPBj1cOOkDxL8WljMVOoO3MKC7R6oOb9ecyoG0.original.fullsize.png)
+
 ![image_1](https://cdn.mathpix.com/snip/images/lADpZD7IZoGybL8dQD9sa2OraBy-9zzjEbtJ_2Cn-W0.original.fullsize.png)
 
 ##### This is the python implementation of the algoriithm
